@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{087C3AB3-B4AA-4BA7-B5CE-8A4CEEBFEA34}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ханойские башни/Program.cs">
+    <Files>
+      <File FileName="Ханойские башни/Program.cs" Line="29" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Ханойские_220башни PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
